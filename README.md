@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<h3 align="center">Proudly Founded & Owned by:</h3>
+<h3 align="center">Sky Storage is a division of:</h3>
 <div id="banner" style="overflow: hidden; display: inline-block;">
   <p align='center'>
       <img src='https://justsave.com.au/static/logos/White.svg' style='width: 45%;'>
